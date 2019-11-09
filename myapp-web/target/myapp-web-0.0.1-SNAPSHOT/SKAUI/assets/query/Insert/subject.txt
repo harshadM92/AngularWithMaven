@@ -1,0 +1,9 @@
+insert into subject(title,sorder) values('Hindi',1);
+insert into subject(title,sorder) values('English',2);
+insert into subject(title,sorder) values('Marathi',3);
+insert into subject(title,sorder) values('Maths',4);
+insert into subject(title,sorder) values('Science',5);
+insert into subject(title,sorder) values('History',6);
+insert into subject(title,sorder) values('Geography',7);
+insert into subject(title,sorder) values('Civics',8);
+insert into subject(title,sorder) values('Political Science',9);

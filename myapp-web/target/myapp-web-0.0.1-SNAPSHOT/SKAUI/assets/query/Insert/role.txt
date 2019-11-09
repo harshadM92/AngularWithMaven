@@ -1,0 +1,4 @@
+select * from skrole
+
+insert into skrole(role_name,role_num) values('student',1)
+insert into skrole(role_name,role_num) values('admin',2)

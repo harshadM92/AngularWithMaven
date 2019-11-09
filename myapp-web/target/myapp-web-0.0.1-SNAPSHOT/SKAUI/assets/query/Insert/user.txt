@@ -1,0 +1,7 @@
+insert into skuser(user_name,password,status,standard_id_fkey,mediums_id_fkey,skrole_id_fkey)
+values('sk01','202cb962ac59075b964b07152d234b70',1,6,2,1);
+
+insert into skuser(user_name,password,status,standard_id_fkey,mediums_id_fkey,skrole_id_fkey)
+values('sk02','202cb962ac59075b964b07152d234b70',1,null,null,2);
+
+select * from skuser;

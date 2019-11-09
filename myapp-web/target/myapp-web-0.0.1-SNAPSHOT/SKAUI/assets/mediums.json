@@ -1,0 +1,13 @@
+{
+    "success": true,
+    "data": [
+        {
+            "id": 1,
+            "title": "Hindi"
+        },
+        {
+            "id": 2,
+            "title": "English"
+        }
+    ]
+}

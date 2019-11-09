@@ -1,0 +1,97 @@
+10_HINDI_HINDI semester_2
+
+insert into chapter(title,chapter_number,semester,subject_id_fkey,standard_id_fkey) values('बरषहिं जलद',1,2,1,6);
+insert into chapter(title,chapter_number,semester,subject_id_fkey,standard_id_fkey) values('दो लघुकथाएँ (पूरक पठन)',2,2,1,6);
+insert into chapter(title,chapter_number,semester,subject_id_fkey,standard_id_fkey) values('श्रम साधना',3,2,1,6);
+insert into chapter(title,chapter_number,semester,subject_id_fkey,standard_id_fkey) values('छापा',4,2,1,6);
+insert into chapter(title,chapter_number,semester,subject_id_fkey,standard_id_fkey) values('ईमानदारी की प्रतिमूतिॅ',5,2,1,6);
+insert into chapter(title,chapter_number,semester,subject_id_fkey,standard_id_fkey) values('हम इस धरती की संतति हैं (पूरक पठन)',6,2,1,6);
+insert into chapter(title,chapter_number,semester,subject_id_fkey,standard_id_fkey) values('महिला आश्रम',7,2,1,6);
+insert into chapter(title,chapter_number,semester,subject_id_fkey,standard_id_fkey) values('अपनी गंध नहीं बेचूँगा',8,2,1,6);
+insert into chapter(title,chapter_number,semester,subject_id_fkey,standard_id_fkey) values('जब तक जिंदा रहूँ, लिखता रहूँ',9,2,1,6);
+insert into chapter(title,chapter_number,semester,subject_id_fkey,standard_id_fkey) values('बूढ़ी काकी (पूरक पठन)',10,2,1,6);
+insert into chapter(title,chapter_number,semester,subject_id_fkey,standard_id_fkey) values('समता की ओर',11,2,1,6);
+
+10_MATHS_HINDI semester_1
+
+
+insert into chapter(title,chapter_number,semester,subject_id_fkey,standard_id_fkey) values('दो चरांकों वाले रेखीय समीकरण',1,1,4,6);
+insert into chapter(title,chapter_number,semester,subject_id_fkey,standard_id_fkey) values('वर्गसमीकरण',2,1,4,6);
+insert into chapter(title,chapter_number,semester,subject_id_fkey,standard_id_fkey) values('अंकगणितीय श्रृंखला',3,1,4,6);
+insert into chapter(title,chapter_number,semester,subject_id_fkey,standard_id_fkey) values('आर्थिक नियोजन',4,1,4,6);
+insert into chapter(title,chapter_number,semester,subject_id_fkey,standard_id_fkey) values('संभाव्यता',5,1,4,6);
+insert into chapter(title,chapter_number,semester,subject_id_fkey,standard_id_fkey) values('सांख्यिकी',6,1,4,6);
+
+10_MATHS_HINDI semester_2
+
+insert into chapter(title,chapter_number,semester,subject_id_fkey,standard_id_fkey) values('समरूपता',1,2,4,6,2);
+insert into chapter(title,chapter_number,semester,subject_id_fkey,standard_id_fkey) values('पायथागोरस का प्रमेय',2,2,4,6,2);
+insert into chapter(title,chapter_number,semester,subject_id_fkey,standard_id_fkey) values('वृत्त',3,2,4,6,2);
+insert into chapter(title,chapter_number,semester,subject_id_fkey,standard_id_fkey) values('भूमितीय रचनाएँ',4,2,4,6,2);
+insert into chapter(title,chapter_number,semester,subject_id_fkey,standard_id_fkey) values('निदेॅशांक भूमिती',5,2,4,6,2);
+insert into chapter(title,chapter_number,semester,subject_id_fkey,standard_id_fkey) values('त्रिकोणमिती',6,2,4,6,2);
+insert into chapter(title,chapter_number,semester,subject_id_fkey,standard_id_fkey) values('महत्वमापन',7,2,4,6,2);
+
+UPDATE chapter SET mediums_id_fkey = 1;
+
+10_MATHS_ENGLISH semester_1
+
+insert into chapter(title,chapter_number,semester,subject_id_fkey,standard_id_fkey,mediums_id_fkey) values('Linear Equations in Two Variables',1,1,4,6,2);
+insert into chapter(title,chapter_number,semester,subject_id_fkey,standard_id_fkey,mediums_id_fkey) values('Quadratic Equations',2,1,4,6,2);
+insert into chapter(title,chapter_number,semester,subject_id_fkey,standard_id_fkey,mediums_id_fkey) values('Arithmetic Progression',3,1,4,6,2);
+insert into chapter(title,chapter_number,semester,subject_id_fkey,standard_id_fkey,mediums_id_fkey) values('Financial Planning',4,1,4,6,2);
+insert into chapter(title,chapter_number,semester,subject_id_fkey,standard_id_fkey,mediums_id_fkey) values('Probability',5,1,4,6,2);
+insert into chapter(title,chapter_number,semester,subject_id_fkey,standard_id_fkey,mediums_id_fkey) values('Statistics',6,1,4,6,2);
+select* from chapter where mediums_id_fkey = 2;
+
+10_MATHS_ENGLISH semester_2
+
+
+insert into chapter(title,chapter_number,semester,subject_id_fkey,standard_id_fkey,mediums_id_fkey) values('Similarity',1,2,4,6,2);
+insert into chapter(title,chapter_number,semester,subject_id_fkey,standard_id_fkey,mediums_id_fkey) values('Pythagoras Theorem',2,2,4,6,2);
+insert into chapter(title,chapter_number,semester,subject_id_fkey,standard_id_fkey,mediums_id_fkey) values('Circle',3,2,4,6,2);
+insert into chapter(title,chapter_number,semester,subject_id_fkey,standard_id_fkey,mediums_id_fkey) values('Geometric Constructions',4,2,4,6,2);
+insert into chapter(title,chapter_number,semester,subject_id_fkey,standard_id_fkey,mediums_id_fkey) values('Co-ordinate Geometry',5,2,4,6,2);
+insert into chapter(title,chapter_number,semester,subject_id_fkey,standard_id_fkey,mediums_id_fkey) values('Trigonometry',6,2,4,6,2);
+insert into chapter(title,chapter_number,semester,subject_id_fkey,standard_id_fkey,mediums_id_fkey) values('Mensuration',7,2,4,6,2);
+select* from chapter where mediums_id_fkey = 2;
+
+10_History_ENGLISH semester_1
+
+insert into chapter(title,chapter_number,semester,subject_id_fkey,standard_id_fkey,mediums_id_fkey) values('Historiography : Development in the West.',1,1,6,6,2);
+insert into chapter(title,chapter_number,semester,subject_id_fkey,standard_id_fkey,mediums_id_fkey) values('Historiography : Indian Tradition',2,1,6,6,2);
+insert into chapter(title,chapter_number,semester,subject_id_fkey,standard_id_fkey,mediums_id_fkey) values('Applied History',3,1,6,6,2);
+insert into chapter(title,chapter_number,semester,subject_id_fkey,standard_id_fkey,mediums_id_fkey) values('History of Indian Arts',4,1,6,6,2);
+insert into chapter(title,chapter_number,semester,subject_id_fkey,standard_id_fkey,mediums_id_fkey) values('Mass Media and History',5,1,6,6,2);
+insert into chapter(title,chapter_number,semester,subject_id_fkey,standard_id_fkey,mediums_id_fkey) values('Entertainment and History',6,1,6,6,2);
+insert into chapter(title,chapter_number,semester,subject_id_fkey,standard_id_fkey,mediums_id_fkey) values('Sports and History',7,1,6,6,2);
+insert into chapter(title,chapter_number,semester,subject_id_fkey,standard_id_fkey,mediums_id_fkey) values('Tourism and History',8,1,6,6,2);
+insert into chapter(title,chapter_number,semester,subject_id_fkey,standard_id_fkey,mediums_id_fkey) values('Heritage Management',9,1,6,6,2);
+
+Select * from chapter where subject_id_fkey = 6;
+
+
+10_Political Science_ENGLISH semester_1
+
+
+insert into chapter(title,chapter_number,semester,subject_id_fkey,standard_id_fkey,mediums_id_fkey) values('Working of the Constitution',1,1,9,6,2);
+insert into chapter(title,chapter_number,semester,subject_id_fkey,standard_id_fkey,mediums_id_fkey) values('The Electoral Process',2,1,9,6,2);
+insert into chapter(title,chapter_number,semester,subject_id_fkey,standard_id_fkey,mediums_id_fkey) values('Political Parties',3,1,9,6,2);
+insert into chapter(title,chapter_number,semester,subject_id_fkey,standard_id_fkey,mediums_id_fkey) values('Social and Political Movements',4,1,9,6,2);
+insert into chapter(title,chapter_number,semester,subject_id_fkey,standard_id_fkey,mediums_id_fkey) values('Challenges faced by Indian Democracy',5,1,9,6,2);
+
+Select * from chapter where subject_id_fkey = 9;
+
+10_Geography_ENGLISH semester_1
+
+insert into chapter(title,chapter_number,semester,subject_id_fkey,standard_id_fkey,mediums_id_fkey) values('Field Visit',1,1,7,6,2);
+insert into chapter(title,chapter_number,semester,subject_id_fkey,standard_id_fkey,mediums_id_fkey) values('Location and Extent',2,1,7,6,2);
+insert into chapter(title,chapter_number,semester,subject_id_fkey,standard_id_fkey,mediums_id_fkey) values('Physiography and Drainage',3,1,7,6,2);
+insert into chapter(title,chapter_number,semester,subject_id_fkey,standard_id_fkey,mediums_id_fkey) values('Climate',4,1,7,6,2);
+insert into chapter(title,chapter_number,semester,subject_id_fkey,standard_id_fkey,mediums_id_fkey) values('Natural Vegetation and Wildlife',5,1,7,6,2);
+insert into chapter(title,chapter_number,semester,subject_id_fkey,standard_id_fkey,mediums_id_fkey) values('Population',6,1,7,6,2);
+insert into chapter(title,chapter_number,semester,subject_id_fkey,standard_id_fkey,mediums_id_fkey) values('Human Settlements',7,1,7,6,2);
+insert into chapter(title,chapter_number,semester,subject_id_fkey,standard_id_fkey,mediums_id_fkey) values('Economy and Occupations',8,1,7,6,2);
+insert into chapter(title,chapter_number,semester,subject_id_fkey,standard_id_fkey,mediums_id_fkey) values('Tourism, Transport and Communication',9,1,7,6,2);
+
+Select * from chapter where subject_id_fkey = 7;

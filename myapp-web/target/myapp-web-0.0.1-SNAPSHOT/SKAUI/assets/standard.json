@@ -1,0 +1,41 @@
+{
+    "success": true,
+    "data": [
+        {
+            "id": 1,
+            "std": 5,
+            "subject_number_e": "510",
+            "subject_number_h": "510"
+        },
+        {
+            "id": 2,
+            "std": 6,
+            "subject_number_e": "510",
+            "subject_number_h": "510"
+        },
+        {
+            "id": 3,
+            "std": 7,
+            "subject_number_e": "510",
+            "subject_number_h": "510"
+        },
+        {
+            "id": 4,
+            "std": 8,
+            "subject_number_e": "510",
+            "subject_number_h": "510"
+        },
+        {
+            "id": 5,
+            "std": 9,
+            "subject_number_e": "509",
+            "subject_number_h": "509"
+        },
+        {
+            "id": 6,
+            "std": 10,
+            "subject_number_e": "509",
+            "subject_number_h": "509"
+        }
+    ]
+}

@@ -1,0 +1,239 @@
+{
+    "success": true,
+    "data": [
+        {
+            "id": 25,
+            "title": "वृत्त",
+            "chapter_number": 3,
+            "semester": 2,
+            "subject_id_fkey": 4,
+            "standard_id_fkey": 6,
+            "mediums_id_fkey": 1
+        },
+        {
+            "id": 23,
+            "title": "समरूपता",
+            "chapter_number": 1,
+            "semester": 2,
+            "subject_id_fkey": 4,
+            "standard_id_fkey": 6,
+            "mediums_id_fkey": 1
+        },
+        {
+            "id": 24,
+            "title": "पायथागोरस का प्रमेय",
+            "chapter_number": 2,
+            "semester": 2,
+            "subject_id_fkey": 4,
+            "standard_id_fkey": 6,
+            "mediums_id_fkey": 1
+        },
+        {
+            "id": 26,
+            "title": "भूमितीय रचनाएँ",
+            "chapter_number": 4,
+            "semester": 2,
+            "subject_id_fkey": 4,
+            "standard_id_fkey": 6,
+            "mediums_id_fkey": 1
+        },
+        {
+            "id": 27,
+            "title": "निदेॅशांक भूमिती",
+            "chapter_number": 5,
+            "semester": 2,
+            "subject_id_fkey": 4,
+            "standard_id_fkey": 6,
+            "mediums_id_fkey": 1
+        },
+        {
+            "id": 28,
+            "title": "त्रिकोणमिती",
+            "chapter_number": 6,
+            "semester": 2,
+            "subject_id_fkey": 4,
+            "standard_id_fkey": 6,
+            "mediums_id_fkey": 1
+        },
+        {
+            "id": 29,
+            "title": "महत्वमापन",
+            "chapter_number": 7,
+            "semester": 2,
+            "subject_id_fkey": 4,
+            "standard_id_fkey": 6,
+            "mediums_id_fkey": 1
+        },
+        {
+            "id": 30,
+            "title": "दो चरांकों वाले रेखीय समीकरण",
+            "chapter_number": 1,
+            "semester": 1,
+            "subject_id_fkey": 4,
+            "standard_id_fkey": 6,
+            "mediums_id_fkey": 1
+        },
+        {
+            "id": 31,
+            "title": "वर्गसमीकरण",
+            "chapter_number": 2,
+            "semester": 1,
+            "subject_id_fkey": 4,
+            "standard_id_fkey": 6,
+            "mediums_id_fkey": 1
+        },
+        {
+            "id": 32,
+            "title": "अंकगणितीय श्रृंखला",
+            "chapter_number": 3,
+            "semester": 1,
+            "subject_id_fkey": 4,
+            "standard_id_fkey": 6,
+            "mediums_id_fkey": 1
+        },
+        {
+            "id": 33,
+            "title": "आर्थिक नियोजन",
+            "chapter_number": 4,
+            "semester": 1,
+            "subject_id_fkey": 4,
+            "standard_id_fkey": 6,
+            "mediums_id_fkey": 1
+        },
+        {
+            "id": 34,
+            "title": "संभाव्यता",
+            "chapter_number": 5,
+            "semester": 1,
+            "subject_id_fkey": 4,
+            "standard_id_fkey": 6,
+            "mediums_id_fkey": 1
+        },
+        {
+            "id": 35,
+            "title": "सांख्यिकी",
+            "chapter_number": 6,
+            "semester": 1,
+            "subject_id_fkey": 4,
+            "standard_id_fkey": 6,
+            "mediums_id_fkey": 1
+        },
+        {
+            "id": 36,
+            "title": "Linear Equations in Two Variables",
+            "chapter_number": 1,
+            "semester": 1,
+            "subject_id_fkey": 4,
+            "standard_id_fkey": 6,
+            "mediums_id_fkey": 2
+        },
+        {
+            "id": 37,
+            "title": "Quadratic Equations",
+            "chapter_number": 2,
+            "semester": 1,
+            "subject_id_fkey": 4,
+            "standard_id_fkey": 6,
+            "mediums_id_fkey": 2
+        },
+        {
+            "id": 38,
+            "title": "Arithmetic Progression",
+            "chapter_number": 3,
+            "semester": 1,
+            "subject_id_fkey": 4,
+            "standard_id_fkey": 6,
+            "mediums_id_fkey": 2
+        },
+        {
+            "id": 39,
+            "title": "Financial Planning",
+            "chapter_number": 4,
+            "semester": 1,
+            "subject_id_fkey": 4,
+            "standard_id_fkey": 6,
+            "mediums_id_fkey": 2
+        },
+        {
+            "id": 40,
+            "title": "Probability",
+            "chapter_number": 5,
+            "semester": 1,
+            "subject_id_fkey": 4,
+            "standard_id_fkey": 6,
+            "mediums_id_fkey": 2
+        },
+        {
+            "id": 41,
+            "title": "Statistics",
+            "chapter_number": 6,
+            "semester": 1,
+            "subject_id_fkey": 4,
+            "standard_id_fkey": 6,
+            "mediums_id_fkey": 2
+        },
+        {
+            "id": 42,
+            "title": "Similarity",
+            "chapter_number": 1,
+            "semester": 2,
+            "subject_id_fkey": 4,
+            "standard_id_fkey": 6,
+            "mediums_id_fkey": 2
+        },
+        {
+            "id": 43,
+            "title": "Pythagoras Theorem",
+            "chapter_number": 2,
+            "semester": 2,
+            "subject_id_fkey": 4,
+            "standard_id_fkey": 6,
+            "mediums_id_fkey": 2
+        },
+        {
+            "id": 44,
+            "title": "Circle",
+            "chapter_number": 3,
+            "semester": 2,
+            "subject_id_fkey": 4,
+            "standard_id_fkey": 6,
+            "mediums_id_fkey": 2
+        },
+        {
+            "id": 45,
+            "title": "Geometric Constructions",
+            "chapter_number": 4,
+            "semester": 2,
+            "subject_id_fkey": 4,
+            "standard_id_fkey": 6,
+            "mediums_id_fkey": 2
+        },
+        {
+            "id": 46,
+            "title": "Co-ordinate Geometry",
+            "chapter_number": 5,
+            "semester": 2,
+            "subject_id_fkey": 4,
+            "standard_id_fkey": 6,
+            "mediums_id_fkey": 2
+        },
+        {
+            "id": 47,
+            "title": "Trigonometry",
+            "chapter_number": 6,
+            "semester": 2,
+            "subject_id_fkey": 4,
+            "standard_id_fkey": 6,
+            "mediums_id_fkey": 2
+        },
+        {
+            "id": 48,
+            "title": "Mensuration",
+            "chapter_number": 7,
+            "semester": 2,
+            "subject_id_fkey": 4,
+            "standard_id_fkey": 6,
+            "mediums_id_fkey": 2
+        }
+    ]
+}

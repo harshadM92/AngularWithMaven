@@ -1,0 +1,6 @@
+insert into standard(std,subject_number) values(5,510);
+insert into standard(std,subject_number) values(6,510);
+insert into standard(std,subject_number) values(7,510);
+insert into standard(std,subject_number) values(8,510);
+insert into standard(std,subject_number) values(9,509);
+insert into standard(std,subject_number) values(10,509);

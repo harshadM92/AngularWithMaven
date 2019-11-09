@@ -1,0 +1,2 @@
+insert into mediums(title) values ('Hindi');
+insert into mediums(title) values ('English');

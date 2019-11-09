@@ -1,0 +1,50 @@
+{
+    "success": true,
+    "data": [
+        {
+            "id": 1,
+            "title": "Hindi",
+            "sorder": 1
+        },
+        {
+            "id": 2,
+            "title": "English",
+            "sorder": 2
+        },
+        {
+            "id": 3,
+            "title": "Marathi",
+            "sorder": 3
+        },
+        {
+            "id": 4,
+            "title": "Maths",
+            "sorder": 4
+        },
+        {
+            "id": 5,
+            "title": "Science",
+            "sorder": 5
+        },
+        {
+            "id": 6,
+            "title": "History",
+            "sorder": 6
+        },
+        {
+            "id": 7,
+            "title": "Geography",
+            "sorder": 7
+        },
+        {
+            "id": 8,
+            "title": "Civics",
+            "sorder": 8
+        },
+        {
+            "id": 9,
+            "title": "Political Science",
+            "sorder": 9
+        }
+    ]
+}
